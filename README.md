@@ -1,4 +1,4 @@
-# React Tic Tac Toe project
+# Tic Tac Toe
 This project was created as a React study and implementation
 
 ## The game
